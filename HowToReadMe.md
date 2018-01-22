@@ -47,6 +47,7 @@ You don't need to include every possible section in your read me file.
 * [Related Projects](#related-projects)
 * [Alternatives](#alternatives)
 * [About](#about)
+* [License](#license)
 
 ## Project Name
 
