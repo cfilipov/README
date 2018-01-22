@@ -404,10 +404,14 @@ You don't have to exhaustively list every similar library, but mentioning a few 
 	</tr>
 </table>
 
-Although you probably already have a shield with the license, it doesn't hurt to explicitly call it out again here.
+Although you probably already have a [shield](#shields) with the license, it doesn't hurt to explicitly call it out again here.
 This is typically the last section of the README.
 If the license is short you can include the contents, otherwise link to the LICENSE file.
 Even if it's obvious it does help to actually mention the name of the license instead of just including its contents.
 For example: say it's "MIT", "2-clause BSD" etc...
 
 * Example: [SwiftLint](https://github.com/realm/SwiftLint/blob/07313c09a52edfb9c9dbbbb87292317e2cef409e/README.md#license)
+
+Many projects now use [FOSSA](https://fossa.io/) to track license compliance and attribution.
+
+* Example: [NervJS license section](https://github.com/NervJS/nerv#license)
